@@ -8,4 +8,4 @@ int main(){
   int b=6;
   int sum=a+b;
   printf(sum);
-  }
+  }.
